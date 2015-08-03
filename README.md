@@ -1,0 +1,2 @@
+# minislot
+simple slot game
